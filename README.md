@@ -1,5 +1,5 @@
 # Player's Auction and Team Making for Tournament
-“Player’s auction &amp; team making for tournament” is the software which Nowadays face much difficulties to organize a match and also difficult to make team combination .The modules are built to provide the display function of managing users’ and authorities’ identification, teams and players information and configuration. 
+“Player’s auction &amp; team making for tournament” is the software which nowadays faces much difficulties in organizing a match and also difficult to make team combination .The modules are built to provide the display function of managing users’ and authorities’ identification, teams and players information and configuration. 
 # Objectives
 * Tournament Owner will organize tournament and advertise it to interested team.
 * Tournament Owner will start the registration of limited team as per his requirement.
@@ -14,7 +14,7 @@
 * Tournament Owner side module can be implemented in Android Application.
 * Expansion of Android Application can be implemented
 * There is also possibility of Application for windows phone and IOS.
-#Conclusion
+# Conclusion
 * The main purpose of our project is to collect the information about player’s, teams and manages the auction process for a tournament. In this project making our honorable mentor Dr. Ashish Kumar Mandal sir guided us. We have learnt many new methods ,techniques and applied them properly to complete our work. However, we have plans to work more on this project and make it  more functional and useful for the users.
 
 
